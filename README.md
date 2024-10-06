@@ -17,8 +17,10 @@ In order to push our research further, we investigated the implementation of a P
 
 ### Description
 
-The **pinnstorch** file contains the code, tests, and tutorials that were inspected from the PINNs-Torch package created by Bafghi et al. in 2023. \\
-The original paper can be found here: https://openreview.net/forum?id=nl1ZzdHpab \\
+The **pinnstorch** file contains the code, tests, and tutorials that were inspected from the PINNs-Torch package created by Bafghi et al. in 2023.
+
+The original paper can be found here: https://openreview.net/forum?id=nl1ZzdHpab
+
 The GitHub repository from which this code was pulled can be found here: https://github.com/rezaakb/pinns-torch
 
 
