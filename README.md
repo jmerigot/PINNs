@@ -27,7 +27,7 @@ The **NavierStokes** folder contains notebooks and files copied from the origina
 - The GitHub repository from which this code was pulled can be found here: https://github.com/maziarraissi/PINNs
 
 
-The **Burgers** folder contains notebooks and files inspired from the original PINNs paper by Raissi et al. from 2019. This code was inspired by the *NavierStokes* code but was self-adpated for Burger's Equation instead for research purposes. The data is therefore self-created within the code. The results were promising but not very conclusive.
+The **Burgers** folder contains notebooks and files inspired from the original PINNs paper by Raissi et al. from 2019. This code was inspired by the *NavierStokes* code but was self-adapted for Burger's Equation instead for research purposes. The data is therefore self-created within the code. The results were promising but not very conclusive.
 - The original paper and can can be found at the same location as for the **NavierStokes** folder.
 
 
